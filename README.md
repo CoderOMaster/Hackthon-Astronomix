@@ -1,10 +1,14 @@
-Problem Statement: Detect exoplanets in stellar light flux data using machine learning models.
+## Problem Statement:
 
-Background: Astronomers collect data on stars' light intensity changes to identify exoplanets
+Detect exoplanets in stellar light flux data using machine learning models.
+
+**Background:**
+
+Astronomers collect data on stars' light intensity changes to identify exoplanets
 orbiting stars beyond our solar system.
 
 
-Key Tasks:
+**Key Tasks:**
 
 ● Data Exploration: Analyzed the data set's structure,and identified relevant attributes for prediction.
 
